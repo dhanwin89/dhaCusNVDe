@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00d70bea-0b6d-4aef-ac7b-f4585ce7ef8e" name="Default Changelist" comment="thrid commit">
+    <list default="true" id="00d70bea-0b6d-4aef-ac7b-f4585ce7ef8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../QuickAppUserTraction" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598594624666</updated>
-      <workItem from="1598594626211" duration="2220000" />
+      <workItem from="1598594626211" duration="4214000" />
     </task>
     <task id="LOCAL-00001" summary="first commit all">
       <created>1598594675814</created>
@@ -58,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598595642094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fourth commit">
+      <created>1598596908974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598596908974</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,13 +75,18 @@
     <MESSAGE value="first commit all" />
     <MESSAGE value="second commit" />
     <MESSAGE value="thrid commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="thrid commit" />
+    <MESSAGE value="fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1598596422604">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1598596908080">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598596422604" />
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598596908080" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1598598712401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598598712401" />
     <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1598596445377">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
