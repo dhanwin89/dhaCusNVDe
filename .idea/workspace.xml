@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00d70bea-0b6d-4aef-ac7b-f4585ce7ef8e" name="Default Changelist" comment="">
+    <list default="true" id="00d70bea-0b6d-4aef-ac7b-f4585ce7ef8e" name="Default Changelist" comment="thrid commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598594624666</updated>
-      <workItem from="1598594626211" duration="910000" />
+      <workItem from="1598594626211" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="first commit all">
       <created>1598594675814</created>
@@ -52,7 +51,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598594793635</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="thrid commit">
+      <created>1598595642094</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598595642094</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,20 +67,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit all" />
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="thrid commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="thrid commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1598594792687">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1598596422604">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598594792687" />
-    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1598594809095">
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598596422604" />
+    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1598596445377">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1598594809095" />
-    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor" timestamp="1598594812350">
+    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1598596445377" />
+    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor" timestamp="1598596449868">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor/0.0.1280.680@0.0.1280.680" timestamp="1598594812350" />
+    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor/0.0.1280.680@0.0.1280.680" timestamp="1598596449868" />
   </component>
 </project>
