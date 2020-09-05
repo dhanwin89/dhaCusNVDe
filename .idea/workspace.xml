@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00d70bea-0b6d-4aef-ac7b-f4585ce7ef8e" name="Default Changelist" comment="">
+    <list default="true" id="00d70bea-0b6d-4aef-ac7b-f4585ce7ef8e" name="Default Changelist" comment="Seventh commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598594624666</updated>
       <workItem from="1598594626211" duration="4953000" />
+      <workItem from="1598869488856" duration="300000" />
+      <workItem from="1599208638492" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="first commit all">
       <created>1598594675814</created>
@@ -71,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598611748678</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sixth commit">
+      <created>1598869549840</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598869549840</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,24 +92,25 @@
     <MESSAGE value="thrid commit" />
     <MESSAGE value="fourth commit" />
     <MESSAGE value="fifth commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fifth commit" />
+    <MESSAGE value="Sixth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sixth commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1598611747637">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1599208729599">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598611747637" />
-    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1598598712401">
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599208729599" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1599208740865">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598598712401" />
-    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1598869507268">
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599208740865" />
+    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1598869559815">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1598869507268" />
-    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor" timestamp="1598611779775">
+    <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1598869559815" />
+    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor" timestamp="1598869563807">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor/0.0.1280.680@0.0.1280.680" timestamp="1598611779775" />
+    <state x="383" y="85" key="git4idea.rebase.GitRebaseEditor/0.0.1280.680@0.0.1280.680" timestamp="1598869563807" />
   </component>
 </project>
