@@ -3,7 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="00d70bea-0b6d-4aef-ac7b-f4585ce7ef8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foUp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/black.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexUp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/landingPageUp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rUp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xl.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CustomApp" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,6 +53,7 @@
       <workItem from="1598869488856" duration="300000" />
       <workItem from="1599208638492" duration="105000" />
       <workItem from="1599286618707" duration="687000" />
+      <workItem from="1599370416670" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="first commit all">
       <created>1598594675814</created>
@@ -106,14 +121,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit construction" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1599286673848">
+    <state x="253" y="0" key="CommitChangelistDialog2" timestamp="1599291110119">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599286673848" />
-    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1599208740865">
+    <state x="253" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1599291110119" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1599291144839">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599208740865" />
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1599291144839" />
     <state x="416" y="220" key="git4idea.rebase.GitRebaseDialog" timestamp="1599286693175">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
